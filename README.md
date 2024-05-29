@@ -3,3 +3,7 @@ Flappy Hörður er spennandi nýtt leikur þar sem þú stýrir Hörð í gegnum
 Þróun á leiknum hófst í maí 2024. Leikurinn er þróaður í Unity. Ég ætla að gefa það út á: Android, IOS, Windows, MacOS, Linux, TvOS og á vefsíðu.
 
 í augnablikinu er hægt að setja Flapper Hörður upp á Android, Windows og tæknilega IOS.
+
+Android niðurhall: https://github.com/peturingibache/Flappy-H-r-ur/releases/download/v2.0A/Flappy.hordur.2.0.apk
+
+Windows niðurhall: https://github.com/peturingibache/Flappy-H-r-ur/releases/download/v2.0W/Flappy.Hordur.2.0.win.zip
